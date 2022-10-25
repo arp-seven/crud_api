@@ -1,4 +1,4 @@
-# crud_api
+Aplikasi Sederhana Yang Menampilkan Data dari API dan Fitur Menambahkan Data ke API
 
 A new Flutter project.
 
